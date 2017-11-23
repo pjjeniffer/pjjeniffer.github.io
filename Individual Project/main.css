@@ -1,3 +1,5 @@
-hr {color: sienna;}
-p {margin-left: 20px;}
-body {background-image: url("/Individual Project/girl.jpg");}
+body 
+{
+  background-image: url("/Individual Project/back.jpg");
+  background-attachment:fixed；
+}
