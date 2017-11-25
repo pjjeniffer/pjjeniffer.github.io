@@ -1,0 +1,8 @@
+/Individual Project/girl.jpg
+body 
+{
+  background-image: url("/Individual Project/girl.jpg");
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-size:1260px 560px;
+}
