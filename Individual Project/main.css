@@ -2,5 +2,6 @@ body
 {
   background-image: url("/Individual Project/back.jpg");
   background-attachment:fixed;
-  background-size:1370px 571px;
+  background-repeat:no-repeat;
+  background-size:1250px 500px;
 }
